@@ -20,5 +20,5 @@ Pour les questions : jefaisdudave@gmail.com
 - Ublock Origin, "of course" (bloqueur de pubs): https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?utm_source=chrome-app-launcher-info-dialog
 - Card color titles for Trello, très pratique :  https://chrome.google.com/webstore/detail/card-color-titles-for-tre/hpmobkglehhleflhaefmfajhbdnjmgim?utm_source=chrome-app-launcher-info-dialog
 - Preview Asciidoctor : https://chrome.google.com/webstore/detail/asciidoctorjs-live-previe/iaalpfgpbocpdfblpnhhgllgbdbchmia?utm_source=chrome-app-launcher-info-dialog
-- Beagle Term, pour parler avec des arduino (par exemple) en USBtoSerial (pas testé encore) : https://chrome.google.com/webstore/detail/beagle-term/gkdofhllgfohlddimiiildbgoggdpoea?utm_source=chrome-app-launcher-info-dialog
+- Beagle Term, pour parler avec des arduino (par exemple) en USBtoSerial : https://chrome.google.com/webstore/detail/beagle-term/gkdofhllgfohlddimiiildbgoggdpoea?utm_source=chrome-app-launcher-info-dialog
 - Chrome dev editor : https://chrome.google.com/webstore/detail/chrome-dev-editor/pnoffddplpippgcfjdhbmhkofpnaalpg?utm_source=chrome-app-launcher-info-dialog
