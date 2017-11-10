@@ -8,7 +8,11 @@ Pour les questions : jefaisdudave@gmail.com
 
 - La liste des Chromebook compatible Play Store Android : https://www.chromium.org/chromium-os/chrome-os-systems-supporting-android-apps
 
-## Les extensions intéressantes
+## Les apps Android intéressantes
+
+- Termux : https://termux.com/
+
+## Les extensions Chrome intéressantes
 
 - Mosh client : https://chrome.google.com/webstore/detail/mosh/ooiklbnjmhbcgemelgfhaeaocllobloj?utm_source=chrome-app-launcher-info-dialog
 - Postman pour tester les APIs : https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?utm_source=chrome-app-launcher-info-dialog
